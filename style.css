@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.tour-nav a{
+
+    margin-right: 25px;
+}
+.banner-title h1{
+    font-size: 55px;
+    font-weight: 800;
+}
+.custom-banner{
+    width: 1073px;
+    height: 162px;
+}
+.custom-banner img{
+    width: 130px;
+}
+.categories img{
+
+    margin-right: 25%;
+    margin-left: 25%;
+}
+.list-style{
+
+    list-style: none;
+}
+.foot-section{
+
+    margin-left: 100px;
+}
+.destinations-area{
+    margin-top: 10%;
+}
+.city-name{
+    color: brown;
+    font-weight: 800;
+}
+.city-view{
+    color:indigo;
+    font-weight: 700;
+}
+.city-duration{
+    color:orangered ;
+    font-weight: bold;
+}
+.card-title{
+    color:purple;
+    font-weight: 900;
+}
+footer{
+    color: whitesmoke;
+
+}
+.foot-end{
+    color: chocolate ;
+}
